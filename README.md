@@ -1,6 +1,8 @@
 # chat_app
 
-A new Flutter project.
+Add Your Google firebase json file in android=>app=> paste your firebase json file.
+
+=> Without Firebase Json File App Not Work.
 
 ## Getting Started
 
